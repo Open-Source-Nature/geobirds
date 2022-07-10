@@ -11,6 +11,7 @@ Open source project to create an easily accessible and editable resources for bi
 - [ ] Create complete genus dataset(s) to serves a template for the project
 - [ ] Create tools to allow for more efficient creating and editing of data
 - [ ] Improve documentation
+- [ ] Test branch protection
 
 ## Introduction
 
