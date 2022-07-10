@@ -17,11 +17,18 @@ Open source project to create an easily accessible and editable resources for bi
 ## File Structure
 
 |- data
-|- distributions
-|- order
-|- family
-|- genus
-|- genus_species.geojson
+| |- distributions
+| | |- order1
+| | | |- family1
+| | | | |- genus1
+| | | | | |- genus1_species1.geojson
+| | | | | |- genus1_species2.geojson
+| | |- passeriformes
+| | | |- platysteridae
+| | | | |- batis
+| | | | | |- batis_fratrum.geojson
+
+Please note it is possible to search for an individual species by clicking "Go to file" at the top of the repo home page.
 
 ## Contributing
 
