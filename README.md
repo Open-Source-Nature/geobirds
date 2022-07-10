@@ -14,6 +14,15 @@ Open source project to create an easily accessible and editable resources for bi
 
 ## Introduction
 
+## File Structure
+
+|- data
+|- distributions
+|- order
+|- family
+|- genus
+|- genus_species.geojson
+
 ## Contributing
 
 ## Feedback
