@@ -15,6 +15,7 @@ Open source means anyone can use the data and contribute to the project. The dat
 - [ ] Create complete genus dataset(s) to serves a template for the project
 - [ ] Create tools to allow for more efficient creating and editing of data
 - [ ] Improve documentation
+- [ ] Test branch protection
 
 ## Introduction
 
