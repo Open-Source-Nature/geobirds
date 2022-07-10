@@ -1,6 +1,10 @@
 # GeoBirds
 
-Open source project to create an easily accessible and editable resources for bird distributions globally.
+Open source project to create an freely accessible and editable resources for bird distributions globally.
+
+## Why Open Source?
+
+Open source means anyone can use the data and contribute to the project. The data is free to be used for any purpose commercial or non-commercial, our only ask is that you acknowledge the project and link to it.
 
 ![Sample of data](assets/images/sample.png)
 
@@ -34,6 +38,14 @@ Open source project to create an easily accessible and editable resources for bi
 Please note it is possible to search for an individual species by clicking "Go to file" at the top of the repo home page.
 
 ## Contributing
+
+If you are interested contributing to the project and have any question please do not hesitate to contact any of the contributors for assistance.
+
+The project uses GeoJSON as it core data structure. GeoJSON is simple, human-readable and well supported data format (by GIS software and web applications).
+
+For simple distribution maps [geojson.io](https://geojson.io) is good resource. It is an online GeoJSON editor. It help you create GeoJSON files which can then be downloaded and added into the project file structure.
+
+For more advanced and complex maps, GIS software may by needed. [QGIS][https://www.qgis.org/] is an amazing free GIS package.
 
 ## Feedback
 
