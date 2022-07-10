@@ -16,6 +16,7 @@ Open source project to create an easily accessible and editable resources for bi
 
 ## File Structure
 
+```
 |- data
 | |- distributions
 | | |- order1
@@ -27,6 +28,7 @@ Open source project to create an easily accessible and editable resources for bi
 | | | |- platysteridae
 | | | | |- batis
 | | | | | |- batis_fratrum.geojson
+```
 
 Please note it is possible to search for an individual species by clicking "Go to file" at the top of the repo home page.
 
