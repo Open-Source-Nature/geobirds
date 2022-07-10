@@ -1,3 +1,7 @@
 {
-  "conventionalCommits.scopes": ["SpeciesAdded", "Documentation"]
+  "conventionalCommits.scopes": [
+    "SpeciesAdded",
+    "Documentation",
+    "AddedResource"
+  ]
 }

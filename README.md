@@ -38,4 +38,6 @@ Please note it is possible to search for an individual species by clicking "Go t
 
 ## Resources
 
+1. [SABAP2](resources/sabap2/sabap2.md)
+
 ## Licence
