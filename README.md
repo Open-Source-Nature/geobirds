@@ -1,6 +1,6 @@
 # GeoBirds
 
-Open source project to create an freely accessible and editable resources for bird distributions globally.
+Open source project to create an freely accessible and editable resources for bird distributions globally (sample shown in the map below for Chinspot Batis _Batis Molitor_).
 
 ```geojson
 {
@@ -202,6 +202,8 @@ For simple distribution maps [geojson.io](https://geojson.io) is good resource. 
 For more advanced and complex maps, GIS software may by needed. [QGIS](https://www.qgis.org/) is an amazing free GIS package.
 
 ## Feedback
+
+If you have any feedback please feel free to create a issue can we will try address as soon as possible. To do this go to the "Issues" tab and click on the "New Issue" button on the top right. Please give as much information about the issue and include any attachments if needed.
 
 ## Resources
 
