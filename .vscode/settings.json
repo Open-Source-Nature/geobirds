@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "SpeciesAdded",
     "Documentation",
-    "AddedResource"
+    "AddedResource",
+    "SpeciesEdited"
   ]
 }
