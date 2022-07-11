@@ -207,8 +207,9 @@ For more advanced and complex maps, GIS software may by needed. [QGIS](https://w
 
 ### Global
 
-1. [IOC World Bird List](https://www.worldbirdnames.org/)
+1. [BirdLife International Data Zone](http://datazone.birdlife.org/species/search)
 2. [eBird](https://ebird.org/explore)
+3. [IOC World Bird List](https://www.worldbirdnames.org/)
 
 ### Africa
 
