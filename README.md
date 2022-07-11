@@ -203,7 +203,7 @@ For more advanced and complex maps, GIS software may by needed. [QGIS](https://w
 
 ## Feedback
 
-If you have any feedback please feel free to create a issue can we will try address as soon as possible. To do this go to the "Issues" tab and click on the "New Issue" button on the top right. Please give as much information about the issue and include any attachments if needed.
+If you have any feedback please feel free to create an issue and we will try address as soon as possible. To do this go to the "Issues" tab and click on the "New Issue" button on the top right. Please give as much information about the issue and include any attachments if needed.
 
 ## Resources
 
