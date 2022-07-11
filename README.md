@@ -2,10 +2,6 @@
 
 Open source project to create an freely accessible and editable resources for bird distributions globally.
 
-## Why Open Source?
-
-Open source means anyone can use the data and contribute to the project. The data is free to be used for any purpose commercial or non-commercial, our only ask is that you acknowledge the project and link to it.
-
 ```geojson
 {
   "type": "FeatureCollection",
@@ -162,7 +158,9 @@ Open source means anyone can use the data and contribute to the project. The dat
 }
 ```
 
-![Sample of data](assets/images/sample.png)
+## Why Open Source?
+
+Open source means anyone can use the data and contribute to the project. The data is free to be used for any purpose commercial or non-commercial, our only ask is that you acknowledge the project and link to it.
 
 ## Initial Setup Steps
 
