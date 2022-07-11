@@ -45,12 +45,13 @@ The project uses GeoJSON as it core data structure. GeoJSON is simple, human-rea
 
 For simple distribution maps [geojson.io](https://geojson.io) is good resource. It is an online GeoJSON editor. It help you create GeoJSON files which can then be downloaded and added into the project file structure.
 
-For more advanced and complex maps, GIS software may by needed. [QGIS][https://www.qgis.org/] is an amazing free GIS package.
+For more advanced and complex maps, GIS software may by needed. [QGIS](https://www.qgis.org/) is an amazing free GIS package.
 
 ## Feedback
 
 ## Resources
 
-1. [SABAP2](resources/sabap2/sabap2.md)
+1. [IOC World Bird List](https://www.worldbirdnames.org/)
+2. [SABAP2](resources/sabap2/sabap2.md)
 
 ## Licence
