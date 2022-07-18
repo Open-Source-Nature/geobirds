@@ -202,10 +202,6 @@ If you are interested contributing to the project and have any question please d
 
 The project uses GeoJSON as it core data structure. GeoJSON is simple, human-readable and well supported data format (by GIS software and web applications).
 
-For simple distribution maps [geojson.io](https://geojson.io) is good resource. It is an online GeoJSON editor. It help you create GeoJSON files which can then be downloaded and added into the project file structure.
-
-For more advanced and complex maps, GIS software may by needed. [QGIS](https://www.qgis.org/) is an amazing free GIS package.
-
 ## Feedback
 
 If you have any feedback please feel free to create an issue and we will try address as soon as possible. To do this go to the "Issues" tab and click on the "New Issue" button on the top right. Please give as much information about the issue and include any attachments if needed.
@@ -219,6 +215,14 @@ A web based ui tool (NextJS) is being developed to allow quicker creation and ed
 ### Data Validator
 
 A data validator (Javascript) is also being developed to ensure data consistency and will be run when a PR is submitted. This will produce a list of warnings and errors that should be fixed. All errors should be fixed before PR is approved and warnings should be fixed as soon as possible.
+
+### GeoJSON
+
+For simple distribution maps [geojson.io](https://geojson.io) is good resource. It is an online GeoJSON editor. It help you create GeoJSON files which can then be downloaded and added into the project file structure.
+
+### GIS
+
+For more advanced and complex maps, GIS software may by needed. [QGIS](https://www.qgis.org/) is an amazing free GIS package.
 
 ## Resources
 
