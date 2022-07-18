@@ -165,11 +165,14 @@ Open source means anyone can use the data and contribute to the project. The dat
 ## Initial Setup Steps
 
 - [x] Test project structure and data structures
-- [ ] Create masterlist using lastest IOC(add additional lists later)
-- [ ] Create complete genus dataset(s) to serves a template for the project
+- [x] Create masterlist using lastest IOC(add additional lists later)
+- [x] Create complete genus dataset(s) to serves a template for the project
 - [ ] Create tools to allow for more efficient creating and editing of data
 - [ ] Improve documentation
 - [ ] Test branch protection
+- [ ] Complete all Southern Africa resident species
+- [ ] Complete all Southern Africa species (including migrants)
+- [ ] Complete all Africa species (~ 2000 species)
 
 ## Introduction
 
