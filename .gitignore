@@ -131,3 +131,6 @@ dmypy.json
 # temporary files
 temp/
 temporary/
+
+.next
+node_modules/
