@@ -178,6 +178,8 @@ Open source means anyone can use the data and contribute to the project. The dat
 
 ## File Structure
 
+All distribution data in the the data/distribution folder. Please keep to the naming convention shown below.
+
 ```
 |- data
 | |- distributions
@@ -207,6 +209,16 @@ For more advanced and complex maps, GIS software may by needed. [QGIS](https://w
 ## Feedback
 
 If you have any feedback please feel free to create an issue and we will try address as soon as possible. To do this go to the "Issues" tab and click on the "New Issue" button on the top right. Please give as much information about the issue and include any attachments if needed.
+
+## Tooling
+
+### UI Tool
+
+A web based ui tool (NextJS) is being developed to allow quicker creation and editing of maps and validation of data (data structure not content). This should increase the efficiency of data creation and ensure the consistency of the data. Additional tools will be built into this tool to allow easier data exploration.
+
+### Data Validator
+
+A data validator (Javascript) is also being developed to ensure data consistency and will be run when a PR is submitted. This will produce a list of warnings and errors that should be fixed. All errors should be fixed before PR is approved and warnings should be fixed as soon as possible.
 
 ## Resources
 
